@@ -1,6 +1,6 @@
 # 📚 University Studies Repository Collection
 
-Welcome to my university studies organization! This space contains repositories from my academic journey, documenting coursework, projects, and learning experiences.
+Welcome to my university studies organization! This space contains repositories from my academic journey, documenting coursework, projects, learning experiences and trying out new things.
 
 ## 🎓 About
 
